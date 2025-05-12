@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "what time is the pool open"
+  },
+  {
+    "role": "assistant",
+    "content": "Could you please specify which pool you are asking about or provide its location? Pool opening times vary by facility and location."
+  }
+]

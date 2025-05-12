@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "what time is the pool open"
+  },
+  {
+    "role": "assistant",
+    "content": "The pool hours of operation are available on the Department of Parks and Recreation website."
+  }
+]

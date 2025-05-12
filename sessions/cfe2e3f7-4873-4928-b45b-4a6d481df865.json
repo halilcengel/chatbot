@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "what hours is the pool open at arrwowhead associaton"
+  },
+  {
+    "role": "assistant",
+    "content": "The pool at Arrowhead Association (managed by the Arrowhead Alpine Club) is open daily from Memorial Day Weekend until Labor Day Weekend, weather permitting. Specific daily opening and closing times are not publicly listed online, so it is best to contact the Arrowhead Alpine Club directly at 970-754-6757 for the exact pool hours.",
+    "url": null,
+    "document_name": null
+  }
+]

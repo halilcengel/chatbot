@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "what hours is the pool open at arrwowhead associaton"
+  },
+  {
+    "role": "assistant",
+    "content": "The Arrowhead Association pools are open daily from Memorial Day Weekend until Labor Day Weekend, weather permitting. However, specific daily pool hours are not publicly listed online. For exact hours, it is best to contact the Arrowhead Alpine Club directly or the Arrowhead Lake Community Association.",
+    "url": null,
+    "document_name": null
+  }
+]

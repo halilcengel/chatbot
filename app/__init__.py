@@ -1,0 +1,5 @@
+"""
+Agentic RAG Chatbot Service
+"""
+
+__version__ = "0.1.0" 

@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "what hours is the pool open at arrwowhead associaton "
+  },
+  {
+    "role": "assistant",
+    "content": "The pools at Arrowhead Lake Community Association are open daily from 11:00 AM to 7:00 PM, from Memorial Day Weekend through Labor Day Weekend, weather permitting.",
+    "url": null,
+    "document_name": null
+  }
+]

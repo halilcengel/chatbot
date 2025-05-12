@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "what time is the pool open"
+  },
+  {
+    "role": "assistant",
+    "content": "The pool opening hours are not provided in the available document. Please provide the specific location or facility name for more accurate information."
+  }
+]
